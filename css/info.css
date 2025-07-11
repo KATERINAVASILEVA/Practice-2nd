@@ -1,0 +1,9 @@
+main .content {
+  padding: 20px;
+}
+
+main .content p,
+h1,
+h2 {
+  margin: 20px 15px;
+}
